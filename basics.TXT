@@ -79,3 +79,4 @@ AGGREGATE FUNCTIONS
         MIN(COL_N)
     AVG -IS TO RETURN AVERAGE 
         AVG(COL_N)    
+hello
